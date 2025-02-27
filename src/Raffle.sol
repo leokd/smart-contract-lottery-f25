@@ -11,8 +11,8 @@
 
 // Layout of Functions:
 // Constructor
-// Receive function (if exists)
-// Fallback function (if exists)
+// Receive function
+// Fallback function
 // External
 // Public
 // Internal
